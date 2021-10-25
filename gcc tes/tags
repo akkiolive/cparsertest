@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/;"	extras:pseudo
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/;"	extras:pseudo
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/;"	extras:pseudo
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/;"	extras:pseudo
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/;"	extras:pseudo
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/;"	extras:pseudo
+!_TAG_PROC_CWD	C:/Users/vanch/OneDrive/Documents/MyProgramming/211022. pycparser/gcc tes/	//;"	extras:pseudo
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//;"	extras:pseudo
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/;"	extras:pseudo
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/;"	extras:pseudo
+!_TAG_PROGRAM_VERSION	5.9.0	/df3e2f58/;"	extras:pseudo
+$a$$$$$$$$	test.c	/^        int $a$$$$$$$$ = 0;$/;"	kind:local	line:23	language:C	scope:function:main	typeref:typename:int	file:	roles:def	extras:fileScope	end:23
+AAAa	test copy.c	/^#define AAAa /;"	kind:macro	line:3	language:C	file:	roles:def	extras:fileScope	end:3
+AAAa	test.c	/^#define AAAa /;"	kind:macro	line:4	language:C	file:	roles:def	extras:fileScope	end:4
+INININININININ	test.c	/^hogehoge INININININININ(){}$/;"	kind:function	line:16	language:C	typeref:typename:hogehoge	signature:()	roles:def	end:16
+J	test.c	/^    for(s J=0; J<3; J++){$/;"	kind:local	line:22	language:C	scope:function:main	typeref:typename:s	file:	roles:def	extras:fileScope	end:22
+MMM	file.c	/^#define MMM /;"	kind:macro	line:1	language:C	file:	roles:def	extras:fileScope	end:1
+__anon1dda1bf6010d	test.c	/^void funcccc(double, asdf);$/;"	kind:parameter	line:13	language:C	scope:prototype:funcccc	typeref:typename:double	file:	roles:def	extras:fileScope,anonymous	nth:0
+__anon1dda1bf6020d	test.c	/^void funcccc(double, asdf);$/;"	kind:parameter	line:13	language:C	scope:prototype:funcccc	typeref:typename:asdf	file:	roles:def	extras:fileScope,anonymous	nth:1
+__anone1a0c691010d	test copy.c	/^extern void funcccc(double, asdf);$/;"	kind:parameter	line:8	language:C	scope:prototype:funcccc	typeref:typename:double	file:	roles:def	extras:fileScope,anonymous	nth:0
+__anone1a0c691020d	test copy.c	/^extern void funcccc(double, asdf);$/;"	kind:parameter	line:8	language:C	scope:prototype:funcccc	typeref:typename:asdf	file:	roles:def	extras:fileScope,anonymous	nth:1
+__anonfd762eb6010d	file.c	/^double func(int, char*);$/;"	kind:parameter	line:6	language:C	scope:prototype:func	typeref:typename:int	file:	roles:def	extras:fileScope,anonymous	nth:0
+__anonfd762eb6020d	file.c	/^double func(int, char*);$/;"	kind:parameter	line:6	language:C	scope:prototype:func	typeref:typename:char *	file:	roles:def	extras:fileScope,anonymous	nth:1
+__anonfd762eb6030d	file.c	/^extern void funcB(double);$/;"	kind:parameter	line:7	language:C	scope:prototype:funcB	typeref:typename:double	file:	roles:def	extras:fileScope,anonymous	nth:0
+a	test.c	/^#define a /;"	kind:macro	line:7	language:C	file:	roles:def	extras:fileScope	end:7
+asdfasdf	test.c	/^asdfadfouble    asdfasdf;$/;"	kind:variable	line:11	language:C	typeref:typename:asdfadfouble	roles:def	end:11
+av	test copy.c	/^    int av = 0;$/;"	kind:local	line:10	language:C	scope:function:main	typeref:typename:int	file:	roles:def	extras:fileScope	end:10
+av	test.c	/^    int av = 0;$/;"	kind:local	line:19	language:C	scope:function:main	typeref:typename:int	file:	roles:def	extras:fileScope	end:19
+b	test copy.c	/^int b = 0;$/;"	kind:variable	line:6	language:C	typeref:typename:int	roles:def	end:6
+b	test.c	/^        int b = av;$/;"	kind:local	line:24	language:C	scope:function:main	typeref:typename:int	file:	roles:def	extras:fileScope	end:24
+bbb	test.c	/^extern hoge bbb;$/;"	kind:externvar	line:10	language:C	typeref:typename:hoge	roles:def	end:10
+c	test copy.c	/^extern int c;$/;"	kind:externvar	line:7	language:C	typeref:typename:int	roles:def	end:7
+foo	file.c	/^int foo;$/;"	kind:variable	line:3	language:C	typeref:typename:int	roles:def	end:3
+func	file.c	/^double func(int, char*);$/;"	kind:prototype	line:6	language:C	typeref:typename:double	file:	signature:(int,char *)	roles:def	extras:fileScope	end:6
+funcB	file.c	/^extern void funcB(double);$/;"	kind:prototype	line:7	language:C	typeref:typename:void	file:	signature:(double)	roles:def	extras:fileScope	end:7
+funcccc	test copy.c	/^extern void funcccc(double, asdf);$/;"	kind:prototype	line:8	language:C	typeref:typename:void	file:	signature:(double,asdf)	roles:def	extras:fileScope	end:8
+funcccc	test.c	/^void funcccc(double, asdf);$/;"	kind:prototype	line:13	language:C	typeref:typename:void	file:	signature:(double,asdf)	roles:def	extras:fileScope	end:13
+lar	file.c	/^    int lar = 1;$/;"	kind:local	line:10	language:C	scope:function:main	typeref:typename:int	file:	roles:def	extras:fileScope	end:10
+ma	test copy.c	/^extern void ma();$/;"	kind:prototype	line:4	language:C	typeref:typename:void	file:	signature:()	roles:def	extras:fileScope	end:4
+main	file.c	/^int main(){$/;"	kind:function	line:9	language:C	typeref:typename:int	signature:()	roles:def	end:15
+main	file1.c	/^int main(){$/;"	kind:function	line:3	language:C	typeref:typename:int	signature:()	roles:def	end:5
+main	test copy.c	/^int main(){$/;"	kind:function	line:9	language:C	typeref:typename:int	signature:()	roles:def	end:14
+main	test.c	/^int main(){$/;"	kind:function	line:18	language:C	typeref:typename:int	signature:()	roles:def	end:31
+nuke	file.c	/^extern long nuke;$/;"	kind:externvar	line:4	language:C	typeref:typename:long	roles:def	end:4
+v	file1.c	/^extern int v;$/;"	kind:externvar	line:1	language:C	typeref:typename:int	roles:def	end:1
+w	file2.c	/^int w;/;"	kind:variable	line:1	language:C	typeref:typename:int	roles:def	end:1
